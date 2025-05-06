@@ -1,0 +1,1 @@
+Exercise 9.2.2 : none of the details are hashed, all plaintextversions are saved
